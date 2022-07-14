@@ -1,6 +1,6 @@
 # Hello
 
-This is my first repository on Github
+This is my second repository on Github
 
 Am a student of ALX
 
